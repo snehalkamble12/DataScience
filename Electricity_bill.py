@@ -1,4 +1,4 @@
-units = int(input("Enter the units"))
+units = int(input("Enter the units: "))
 if units <= 100:
   print("No charge")
 elif units >= 100 and units<=200:
